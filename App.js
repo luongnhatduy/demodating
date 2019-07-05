@@ -14,7 +14,7 @@ export default class App extends Component {
       <Provider store={store}>
         <View>
           <TaskManagerComponent />
-          ///met lam roi
+          ///met lam roi sddđ
         </View>
       </Provider>
     
