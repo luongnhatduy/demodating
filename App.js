@@ -15,7 +15,7 @@ export default class App extends Component {
         <View>
           <TaskManagerComponent />
 
-          ///Aanh duy dep traisddddddddddd khoai to
+          ///Aanh duy dep traisddddddddddd khoai to đ
         </View>
       </Provider>
     
