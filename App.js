@@ -14,7 +14,11 @@ export default class App extends Component {
       <Provider store={store}>
         <View>
           <TaskManagerComponent />
+<<<<<<< Updated upstream
           ///met sadssssss
+=======
+          ///met sadssssssssssssssssssssssssssssssssssssssssssssssss
+>>>>>>> Stashed changes
         </View>
       </Provider>
     
