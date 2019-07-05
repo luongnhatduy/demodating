@@ -14,7 +14,8 @@ export default class App extends Component {
       <Provider store={store}>
         <View>
           <TaskManagerComponent />
-          ///Aanh duy dep trai
+
+          ///Aanh duy dep traisddddddddddd khoai to
         </View>
       </Provider>
     
